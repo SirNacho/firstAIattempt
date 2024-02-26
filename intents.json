@@ -1,0 +1,90 @@
+{"intents":
+[
+    {"tag": "greeting",
+    "patterns": ["Hey", "Hello", "What's up?", "How is it going?", "hi", "Good day"],
+    "responses": [""]},
+    
+    {"tag": "create_note",
+    "patterns": ["Please create a new note", "New note", "Create a note", "I want to create a note"],
+    "responses": [""]},
+
+    {"tag": "add_todos",
+    "patterns": ["I want to add a todo", "add a new todo", "add a new todo to my list", "new item on my todo list"],
+    "responses": [""]},
+
+    {"tag": "exit",
+    "patterns": ["Bye", "stop", "quit", "I want to quit", "Goodbye", "I want to exit", "I have to go"],
+    "responses": [""]},
+    
+    {"tag": "borracho_mode",
+    "patterns": ["I'm drunk", "Can you play me some of that mexican music", "can you play me some mexican music", "play some mexican music"],
+    "responses": [""]},
+    
+    {"tag": "camera_mode",
+    "patterns": ["Can I see myself", "Open the camera", "Open camera"],
+    "responses": [""]},
+
+    {"tag": "open_code",
+    "patterns": ["Open code", "open that coding software that I use on you.", "Open the coding program", "open the code app"],
+    "responses": [""]},
+    
+    {"tag": "open_steam",
+    "patterns": ["Open steam", "open that gaming software", "open tf2 neglected owners", "open that valve"],
+    "responses": [""]},
+
+    {"tag": "open_notepad",
+    "patterns": ["Open notepad", "Open that pad app", "open the writing app"],
+    "responses": [""]},
+
+    {"tag": "searching_video",
+    "patterns": ["play a youtube video", "search on youtube", "play youtube video"],
+    "responses": [""]},
+
+    {"tag": "open_terminal",
+    "patterns": ["Open terminal", "open the terminal", "open the command prompt"],
+    "responses": [""]},
+
+    {"tag": "find_my_ip",
+    "patterns": ["find my IP", "what is my public IP"],
+    "responses": [""]},
+
+    {"tag": "baby_mode",
+    "patterns": ["play some baby music", "play baby music"], 
+    "responses": [""]},
+
+    {"tag": "google_searches",
+    "patterns": ["Can you search up a term", "search on google", "I want to search on google"], 
+    "responses": [""]},
+    
+    {"tag": "wiki_searches",
+    "patterns": ["Can you search up a term on wikipedia", "give me a summary on wikipedia", "search on wikipedia", "go on wiki", "wiki"], 
+    "responses": [""]},
+
+    {"tag": "keyboard",
+    "patterns": ["Can you type for me", "please type", "type", "use keyboard"], 
+    "responses": [""]},
+
+    {"tag": "twitter",
+    "patterns": ["open trash website", "open twitter", "Twitter"], 
+    "responses": [""]},
+    
+    {"tag": "web_gmail",
+    "patterns": ["Open gmail", "Open emails", "OPen gmails"], 
+    "responses": [""]},
+
+    {"tag": "introduction",
+    "patterns": ["Hi Austin, who are you?", "Who are you?", "What the hell are you.", "what are you", "Introduce yourself", "Who is Austin"], 
+    "responses": [""]},
+
+    {"tag": "change_User",
+    "patterns": ["Change user", "Can I change user", "I'm a different person"], 
+    "responses": [""]},
+
+    {"tag": "get_news",
+    "patterns": ["What is the latest news", "what is today news", "give me some news of the world burning", "news"], 
+    "responses": [""]},
+    
+    {"tag": "get_weather",
+    "patterns": ["What is the weather today?", "weather", "get weather report"], 
+    "responses": [""]}
+]}
